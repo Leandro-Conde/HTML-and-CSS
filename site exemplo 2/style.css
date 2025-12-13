@@ -1,0 +1,19 @@
+@charset "UTF-8"
+
+body {
+
+    
+}
+
+header {
+    background-color: black;
+    text-align: center;
+}
+
+header > h1 {
+    color: white;
+}
+
+header > h2 {
+    color: white;
+}
