@@ -8,12 +8,32 @@ body {
 header {
     background-color: black;
     text-align: center;
+    padding: 25px;
 }
 
 header > h1 {
     color: white;
+    font-size: 50px;
 }
 
 header > h2 {
     color: white;
+    font-size: 17px;
+}
+
+main {
+
+}
+
+main > strong {
+    font-size: 30px;
+}
+
+main > p {
+    
+}
+
+article {
+    background-image: url(imagens/background001.jpg);
+    padding: 60px;
 }
